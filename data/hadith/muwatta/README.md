@@ -10,7 +10,7 @@ Note: per this edition's own footnote (page 33), it merges what other editions s
 
 | # | Book (Arabic) | English | Pages | File | Status |
 |---|---|---|---|---|---|
-| 1 | كتاب الصلاة | Prayer | 33–301 | [01_kitab_al_salah.md](01_kitab_al_salah.md) | In progress (narrations 1–36, pages 33–52, done) |
+| 1 | كتاب الصلاة | Prayer | 33–301 | [01_kitab_al_salah.md](01_kitab_al_salah.md) | In progress (narrations 1–48, pages 33–58, done) |
 | 2 | كتاب الجنائز | Funerals | 305–326 | 02_kitab_al_janaiz.md | Not started |
 | 3 | كتاب الزكاة | Zakah | 333–384 | 03_kitab_al_zakah.md | Not started |
 | 4 | كتاب الصيام | Fasting | 385–415 | 04_kitab_al_siyam.md | Not started |
