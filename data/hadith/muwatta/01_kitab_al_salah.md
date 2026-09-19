@@ -1,8 +1,8 @@
-# Muwatta Imam Malik — Sample Extraction (Kitab as-Salah)
+# Kitab as-Salah (Book of Prayer) — Muwatta Imam Malik
 
 **Source:** `موطأ مالك_يحيى_1.pdf` (Riwayah Yahya al-Laythi, Vol. 1), as uploaded to this repository.
-**Section extracted:** The opening of **Kitab as-Salah** (Book of Prayer) — printed pages 33–38 of the edition (PDF pages 32–37), narrations 1–10.
-**Scope note:** This is a proof-of-concept sample, not a full transcription of the book. Numbering follows the numbers printed in this edition; the first narration (an introductory report on the timing of prayer) is unnumbered in the source and is listed here as "1".
+**Pages:** printed pages 33–301 of the edition (PDF pages 32–300). Per the edition's own footnote (page 33), this printing merges what other editions split into ~15 separate books (purification, prayer times, Friday prayer, funerals, etc.) into this single "Kitab as-Salah".
+**Status:** In progress — see [../README.md](../README.md) for overall progress across all 12 books of the volume.
 
 | No. | Book / Chapter | Isnad (chain of narrators) | Matn (Arabic text) |
 |---|---|---|---|
@@ -19,6 +19,5 @@
 
 ## Notes
 
-- The edition's footnotes (isnad critique, takhrij / cross-references to other hadith collections, and lexical glosses) are extensive but are omitted here since the request was for the hadith text itself; they remain in the source PDF for reference.
+- The edition's footnotes (isnad critique, takhrij / cross-references to other hadith collections, and lexical glosses) are extensive but are omitted here since the goal is the hadith text itself; they remain in the source PDF for reference.
 - Narrations 5–7 abbreviate the transmitter chain back to Yahya ("و حدثني عن مالك") as is common in this riwayah once the initial "حدثني يحيى بن يحيى عن مالك" has been established; this is reflected literally in the Isnad column.
-- This sample covers only the first 10 narrations of Kitab as-Salah (of many). Extending the table further would follow the same four-column schema.
